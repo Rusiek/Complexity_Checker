@@ -1,8 +1,5 @@
-from sol import f
 from single_var.polynomial import Poly
 from single_var.log import Log
-from time import time
-import matplotlib.pyplot as plt
 
 class Cpx_Check():
     def __init__(self, data: list):
